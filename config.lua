@@ -33,7 +33,7 @@ return {
 		chatter_response = 'I don\'t know what to say to that.'
 	},
 	greetings = {
-		['سلام, #NAME.'] = {
+		['Hello, #NAME.'] = {
 			'hello',
 			'hey',
 			'sup',
@@ -44,7 +44,7 @@ return {
 			'good evening',
 			'سلام'
 		},
-		['بسلامت, #NAME.'] = {
+		['GoodBye, #NAME.'] = {
 			'bye',
 			'later',
 			'see ya',
